@@ -16,4 +16,4 @@
 
 - Interactive Dasboard with Plotly Dash
 
-- Machine Learning Prediction (in progress) 
+- Machine Learning Prediction
